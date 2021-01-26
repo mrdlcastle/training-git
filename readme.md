@@ -8,22 +8,16 @@ Intro to Git Course
 # Commit messages
 - important to have a history of what the commits are for.
 
-<<<<<<< HEAD
-
 ## Wicked Merges
 - learning about merging
-=======
+
 # Show and Log
 - another entry
->>>>>>> log-branch
 
 # Merging
 - Let's do this from master.
 - Added via merge-branch
 - Now merged.
-<<<<<<< HEAD
 - Change in master after merge-redux-branch created.
 
-=======
 - updated via merge-redux-branch
->>>>>>> merge-redux-branch
