@@ -27,3 +27,6 @@ Intro to Git Course
 
 # Stashing
 - Stashed changes with changes.
+
+#From GITHUB GUI
+- edited docuement
