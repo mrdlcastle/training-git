@@ -30,3 +30,4 @@ Intro to Git Course
 
 #From GITHUB GUI
 - edited document (fixed)
+- remote repositories show up as a branch (hidden branch) in the local.
