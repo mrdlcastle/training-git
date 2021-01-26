@@ -21,3 +21,6 @@ Intro to Git Course
 - Change in master after merge-redux-branch created.
 
 - updated via merge-redux-branch
+
+# Branches Step Two
+- second branch created and committed.
