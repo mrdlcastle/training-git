@@ -24,3 +24,6 @@ Intro to Git Course
 
 # Branches Step Two
 - second branch created and committed.
+
+# Stashing
+- Stashed changes with changes.
