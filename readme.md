@@ -19,3 +19,4 @@ Intro to Git Course
 
 # Merging
 - Let's do this from master.
+- Added via merge-branch
