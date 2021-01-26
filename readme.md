@@ -29,4 +29,4 @@ Intro to Git Course
 - Stashed changes with changes.
 
 #From GITHUB GUI
-- edited docuement
+- edited document (fixed)
