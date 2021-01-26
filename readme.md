@@ -5,3 +5,5 @@ Intro to Git Course
 
 -- git init
 
+# Commit messages
+- important to have a history of what the commits are for.
