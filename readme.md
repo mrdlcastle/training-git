@@ -21,3 +21,4 @@ Intro to Git Course
 - Let's do this from master.
 - Added via merge-branch
 - Now merged.
+- updated via merge-redux-branch
